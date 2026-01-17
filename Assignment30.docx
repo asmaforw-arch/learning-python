@@ -1,0 +1,15 @@
+ Question 1: Area of a Circle
+radius = float(input("Enter radius of the circle: "))
+area = 3.14159 * radius * radius
+print("Area of the circle is:", area)
+
+ Question 2: Area of a Square
+side = float(input("Enter side of the square: "))
+area = side * side
+print("Area of the square is:", area)
+
+ Question 3: Area of a Triangle
+base = float(input("Enter base of the triangle: "))
+height = float(input("Enter height of the triangle: "))
+area = 0.5 * base * height
+print("Area of the triangle is:", area)
